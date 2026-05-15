@@ -1,1 +1,4 @@
+# CODEOWNERS
 
+# Assign all files to saran-csk
+* @saran-csk
