@@ -1,0 +1,59 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Build
+target/
+build/
+.gradle/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+dist/
+
+# Logs
+*.log
+logs/
+
+# Runtime
+*.pid
+pidfile
+
+# Dependencies
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temporary
+*.tmp
+*.temp
+*.bak
+*~
+
+# Maven
+release.properties
+pom.xml.releaseBackup
+.mvn/
+MVNW*
