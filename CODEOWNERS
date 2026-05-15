@@ -1,4 +1,1 @@
-# CODEOWNERS file for Project-demo
-# This file specifies who must review changes to specific modules\n
-# Format: <path> <github-username(s)>\n
-\n# CORE Module - Business Logic\nsrc/main/java/com/project/core/ @username-core-lead\n\n# API Module - REST Endpoints\nsrc/main/java/com/project/api/ @username-api-lead\n\n# SERVICE Module - Business Services\nsrc/main/java/com/project/service/ @username-service-lead\n\n# UTIL Module - Utilities\nsrc/main/java/com/project/util/ @username-util-lead\n\n# Configuration\nconfig/ @saran-csk\npom.xml @saran-csk\n\n# Documentation\nREADME.md @saran-csk\nTEAM_GUIDE.md @saran-csk\nCONTRIBUTING.md @saran-csk\n
+
